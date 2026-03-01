@@ -108,9 +108,9 @@ npm install
 
 # Create .env file
 
-VITE_SUPABASE_URL=https://rmqcvkgvzhpladfeqrzs.supabase.col
-VITE_SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJtcWN2a2d2emhwbGFkZmVxcnpzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzIyOTM3OTksImV4cCI6MjA4Nzg2OTc5OX0.9hrOLnlSUqGii4mX8LEOFDbsxSD8wgn784F4PZjw3_0
-JWT_SECRET=habitflow_secret_jwt
+VITE_SUPABASE_URL=https://rmqcvkgvzhpladfeqrzs.supabase.co
+VITE_SUPABASE_KEY= cant share
+JWT_SECRET=habitflow
 
 # Run the server
 npm run dev
