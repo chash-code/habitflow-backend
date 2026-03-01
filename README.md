@@ -107,9 +107,10 @@ cd habitflow-backend
 npm install
 
 # Create .env file
-SUPABASE_URL=your_supabase_url
-SUPABASE_KEY=your_supabase_key
-JWT_SECRET=your_jwt_secret
+
+VITE_SUPABASE_URL=https://rmqcvkgvzhpladfeqrzs.supabase.col
+VITE_SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJtcWN2a2d2emhwbGFkZmVxcnpzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzIyOTM3OTksImV4cCI6MjA4Nzg2OTc5OX0.9hrOLnlSUqGii4mX8LEOFDbsxSD8wgn784F4PZjw3_0
+JWT_SECRET=habitflow_secret_jwt
 
 # Run the server
 npm run dev
